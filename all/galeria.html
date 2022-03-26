@@ -1,0 +1,34 @@
+<!DOKTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <title>Galeria</title>
+        <link rel="stylesheet" href="styl.css">
+    </head>
+    <body>
+        <div class="naglowek">
+            <h1>Galeria zdjęć</h1>
+        </div>
+        <div class="lewy">
+            <ul>
+                <li><a href="strona1.html">strona glówna</a></li>
+                <li><a href="galeria.html">galeria</a></li>
+                <li>opcja 3</li>
+            </ul>
+        </div>
+        <div class="prawy">
+           <!-- <img src="1.jpg" alt="opis">-->
+            <script>
+               // document.write("tekst wypisany prze skrypt ");
+                //document.write("<img src='1.jpg' alt='opis'> ");
+                for (var i = 1;i <= 6; i = i+1)
+                {
+                    document.write("<img src='"+i+".jpg' alt='opis'> ");
+                }
+            </script>
+        </div>
+        <div class="stopka">
+        
+        </div>
+    </body>
+</html>

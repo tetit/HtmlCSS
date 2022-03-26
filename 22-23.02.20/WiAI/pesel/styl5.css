@@ -1,0 +1,11 @@
+.strona {
+    box-sizing: border-box;
+}
+
+.baner {
+    background-color: #1C59A7;
+    color: white;
+    text-align: center;
+    height: 80px;
+
+}

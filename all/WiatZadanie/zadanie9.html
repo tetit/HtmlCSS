@@ -1,0 +1,23 @@
+<!DOKTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <title>Zadanie 9</title>
+        
+    </head>
+    <body>
+        <script>
+            var i = prompt("Podaj jednostku miary: K - Kelwin, C - Cielsjusz")
+            if (i == "K") {
+            var a = prompt("Podaj stopnie Kelwina ");
+            b = parseFloat(a) - 273.15;
+            document.write("stopnie Kelwina " + a + "K = " + b + "C stopnie Cielsjusza");
+            }
+            else {
+            var c = prompt("Podaj stopnie Cielsjusza ");
+            k = parseFloat(c) + 273.15;
+            document.write("<br> stopnie Cielsjusza " + c + "C = " + k + "K stopnie Kelwina");
+            }
+        </script>
+    </body>
+</html>

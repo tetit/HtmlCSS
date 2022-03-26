@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: cyan;
+    font-size: 32px;
+}
+
+div {
+    color: red;
+    font-size: 32px;
+    
+}
+
+body {
+    background: url(2.jpg);
+    background-position: top right;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    clear: both;
+}
+table {
+	border-collapse: collapse;
+	border: 2px solid black; 
+    background-color: lightgray;
+    
+	}
+tr, td {
+	border: 1px solid gray;
+	}
+th {
+    border: 1px solid blue; 
+    background-color: slategray;
+
+}

@@ -1,0 +1,58 @@
+body {
+    background-color: #50595f;
+}
+
+#strona {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    text-align: center;
+    te
+}
+
+#logo1 {
+    background-color: red;
+    height: 60px;
+    width: 1000px;
+
+}
+
+#logo2 {
+    background-color: rgb(39, 18, 224);
+    height: 80px;
+    width: 1000px;
+
+}
+
+#menu1 {
+    float: left;
+    width: 100px;
+    background-color: salmon;
+    height: 200px;
+    padding: 10px;
+
+}
+
+#menu2 {
+    float: left;
+    width: 740px;
+    background-color: rgb(55, 230, 64);
+    height: 200px;
+    padding: 10px;
+
+}
+
+#menu3 {
+    float: left;
+    width: 100px;
+    background-color: rgb(184, 223, 43);
+    height: 200px;
+    padding: 10px;
+
+}
+
+#stopka{
+    clear: both;
+    background-color: rgb(75, 75, 41);
+    width: 1000px;
+}

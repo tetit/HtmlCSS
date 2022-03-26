@@ -1,0 +1,39 @@
+body {
+    background-color: #50595f;
+}
+
+#strona {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#logo {
+    background-color: red;
+    height: 100px;
+    width: 1000px;
+    padding: 15px;
+
+}
+
+#menu {
+    float: left;
+    width: 200px;
+    background-color: salmon;
+    height: 200px;
+
+}
+
+#tresc {
+    float: left;
+    width: 800px;
+    background-color: skyblue;
+    height: 200px;
+    
+}
+
+#stopka{
+    clear: both;
+    background-color: yellow;
+    width: 1000px;
+}

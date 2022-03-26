@@ -1,0 +1,47 @@
+.baner {
+    background-color: rgb(255, 213, 162);
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nav {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.menu {
+    background-color: RGB(191, 112, 17);
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    width: 25%;
+    float: left;
+    
+}
+.glowny {
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.stopka {
+    background-color: RGB(191, 112, 17);
+    text-align: right;
+    font-size: 150%;
+    color: white; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a {
+    color: white;
+    text-decoration:none;
+    
+}
+button {
+    background-color: brown;
+    border-color: brown;
+    border-width: 2px;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+
+    
